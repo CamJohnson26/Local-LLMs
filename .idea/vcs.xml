@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/bloom-7b1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gpt-neo-2.7B-sharded" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gpt-neo-2.7B-sharded-bf16" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sharded-gpt-j-6B" vcs="Git" />
+  </component>
+</project>
